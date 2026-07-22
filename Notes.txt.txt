@@ -1,4 +1,3 @@
 Rudrayani's first Git practice.
 
-Updated part
-Hello swapnil today i have debugged the issue and solved successfully 
+22nd day2 of learning git -----rudrayani
